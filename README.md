@@ -1,2 +1,2 @@
-# Macys-HTML-Email
-Demo Macy's Email
+# Replica-HTML-Promotional-Email
+Replica HTML Promotional Email
